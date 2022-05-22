@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Freelance Javascript/React developer at Upwork.
+- 💼 &nbsp; Working as a Freelance Javascript/React developer.
 - 🌱 &nbsp; Learning more about Backend development, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing UI/UX and Blog Writing as hobbies/side hustles.
 
